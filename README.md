@@ -5,7 +5,8 @@ PhpStorm Theme
 
 Component | Color
 ---|---
-Variables | blue
-Strings | green
-Functions/Methods | dark yellow
+Keywords | orange
 Comments | violet
+Strings | green
+Variables | blue
+Functions/Methods | dark yellow
