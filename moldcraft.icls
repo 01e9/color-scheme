@@ -256,9 +256,7 @@
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="f7986e" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_COMMA">
       <value>
@@ -326,9 +324,7 @@
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
-      <value>
-        <option name="FOREGROUND" value="aa6453" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value />
