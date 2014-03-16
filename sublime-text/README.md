@@ -1,4 +1,4 @@
-PhpStorm Color Scheme
+Sublime Text Color Scheme
 ===
 
 ![Screenshot](screenshot.png)
