@@ -11,48 +11,36 @@ Find more at : https://github.com/moldcraft/colour-scheme
 -->
 <plist version="1.0">
 <dict>
+    <key>gutterSettings</key>
+    <dict>
+        <key>background</key>
+        <string>#49483E</string>
+        <key>divider</key>
+        <string>#75715E</string>
+        <key>foreground</key>
+        <string>#75715E</string>
+    </dict>
     <key>name</key>
-    <string>Stark</string>
+    <string>moldcraft</string>
+    <key>semanticClass</key>
+    <string>theme.dark.monokai</string>
     <key>settings</key>
     <array>
         <dict>
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#2E2C2B</string>
+                <string>#171717</string>
                 <key>caret</key>
-                <string>#f8f8f0</string>
+                <string>#00ff00</string>
                 <key>foreground</key>
-                <string>#DEDEDE</string>
-                <key>invisibles</key>
-                <string>#3b3a32</string>
-                <key>lineHighlight</key>
-                <string>#3B3633</string>
-                <key>selection</key>
-                <string>#F03113</string>
-                <key>selectionForeground</key>
                 <string>#ffffff</string>
-                <key>findHighlight</key>
-                <string>#ffe792</string>
-                <key>findHighlightForeground</key>
+                <key>invisibles</key>
+                <string>#49483E</string>
+                <key>lineHighlight</key>
+                <string>#101010</string>
+                <key>selection</key>
                 <string>#000000</string>
-                <key>selectionBorder</key>
-                <string>#222218</string>
-                <key>activeGuide</key>
-                <string>#9d550fb0</string>
-
-                <key>bracketsForeground</key>
-                <string>#D1D1D1</string>
-                <key>bracketsOptions</key>
-                <string>underline</string>
-
-                <key>bracketContentsForeground</key>
-                <string>#F03113</string>
-                <key>bracketContentsOptions</key>
-                <string>underline</string>
-
-                <key>tagsOptions</key>
-                <string>stippled_underline</string>
             </dict>
         </dict>
         <dict>
@@ -63,7 +51,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#615953</string>
+                <string>#b729d9</string>
             </dict>
         </dict>
         <dict>
@@ -74,7 +62,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#FFBB29</string>
+                <string>#7bd128</string>
             </dict>
         </dict>
         <dict>
@@ -85,10 +73,9 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#617FA0</string>
+                <string>#ee5b6c</string>
             </dict>
         </dict>
-
         <dict>
             <key>name</key>
             <string>Built-in constant</string>
@@ -97,7 +84,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F03113</string>
+                <string>#ff8019</string>
             </dict>
         </dict>
         <dict>
@@ -108,7 +95,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F03113</string>
+                <string>#446cff</string>
             </dict>
         </dict>
         <dict>
@@ -120,6 +107,8 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>fontStyle</key>
                 <string></string>
+                <key>foreground</key>
+                <string>#4aa3ff</string>
             </dict>
         </dict>
         <dict>
@@ -130,7 +119,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#aaaaaa</string>
+                <string>#ff8019</string>
             </dict>
         </dict>
         <dict>
@@ -142,8 +131,6 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>fontStyle</key>
                 <string></string>
-                <key>foreground</key>
-                <string>#F03113</string>
             </dict>
         </dict>
         <dict>
@@ -154,22 +141,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Class name</string>
-            <key>scope</key>
-            <string>entity.name.class</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string>underline</string>
-                <key>foreground</key>
-                <string>#F03113</string>
+                <string>italic</string>
             </dict>
         </dict>
         <dict>
@@ -181,8 +153,6 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>fontStyle</key>
                 <string>italic underline</string>
-                <key>foreground</key>
-                <string>#F03113</string>
             </dict>
         </dict>
         <dict>
@@ -195,7 +165,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#F03113</string>
+                <string>#f4dc6e</string>
             </dict>
         </dict>
         <dict>
@@ -205,10 +175,8 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <string>variable.parameter</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
                 <key>foreground</key>
-                <string></string>
+                <string>#77daff</string>
             </dict>
         </dict>
         <dict>
@@ -221,7 +189,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#FFBB29</string>
+                <string>#ff8019</string>
             </dict>
         </dict>
         <dict>
@@ -234,7 +202,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#F03113</string>
+                <string>#f4dc6e</string>
             </dict>
         </dict>
         <dict>
@@ -246,8 +214,6 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>fontStyle</key>
                 <string></string>
-                <key>foreground</key>
-                <string>#FFBB29</string>
             </dict>
         </dict>
         <dict>
@@ -259,21 +225,17 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>fontStyle</key>
                 <string></string>
-                <key>foreground</key>
-                <string>#F03113</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
-            <string>Library class/type</string>
+            <string>Library class&#x2f;type</string>
             <key>scope</key>
             <string>support.type, support.class</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
                 <string>italic</string>
-                <key>foreground</key>
-                <string>#F03113</string>
             </dict>
         </dict>
         <dict>
@@ -295,11 +257,11 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#00a8c6</string>
+                <string>#F92672</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
+                <string>#F8F8F0</string>
             </dict>
         </dict>
         <dict>
@@ -310,376 +272,17 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#00a8c6</string>
+                <string>#AE81FF</string>
                 <key>foreground</key>
-                <string>#f8f8f0</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>JSON String</string>
-            <key>scope</key>
-            <string>meta.structure.dictionary.json string.quoted.double.json</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>diff.header</string>
-            <key>scope</key>
-            <string>meta.diff, meta.diff.header</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#75715E</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>diff.deleted</string>
-            <key>scope</key>
-            <string>markup.deleted</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#00A8C6</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>diff.inserted</string>
-            <key>scope</key>
-            <string>markup.inserted</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#A6E22E</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>diff.changed</string>
-            <key>scope</key>
-            <string>markup.changed</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#E6DB74</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>scope</key>
-            <string>constant.numeric.line-number.find-in-files - match</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#8FBE00A0</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>scope</key>
-            <string>entity.name.filename.find-in-files</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#E6DB74</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>scope</key>
-            <string>keyword.other</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#877d76</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>scope</key>
-            <string>meta.property-value, support.constant.property-value, constant.other.color</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>scope</key>
-            <string>meta.structure.dictionary.json string.quoted.double.json</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#F03113</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>scope</key>
-            <string>meta.structure.dictionary.value.json string.quoted.double.json</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Function argument</string>
-            <key>scope</key>
-            <string>meta.property-name support.type.property-name</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string>normal</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Function argument</string>
-            <key>scope</key>
-            <string>meta.property-value punctuation.separator.key-value</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DEDEDE</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Function argument</string>
-            <key>scope</key>
-            <string>keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Function argument</string>
-            <key>scope</key>
-            <string>meta.use support.class.builtin, meta.other.inherited-class support.class.builtin</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DEDEDE</string>
-                <key>fontStyle</key>
-                <string>normal</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Function argument</string>
-            <key>scope</key>
-            <string>variable.other</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string></string>
-                <key>fontStyle</key>
-                <string>normal</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Coffeescript Function argument</string>
-            <key>scope</key>
-            <string>variable.parameter.function.coffee</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#617FA0</string>
-                <key>fontStyle</key>
-                <string>italic</string>
-            </dict>
-        </dict>
-
-        <!-- Markdown support. -->
-        <dict>
-            <key>name</key>
-            <string>Markdown Titles</string>
-            <key>scope</key>
-            <string>entity.name.section.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#F03113</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown Title Hash</string>
-            <key>scope</key>
-            <string>punctuation.definition.heading.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#aaaaaa</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown Raw</string>
-            <key>scope</key>
-            <string>markup.raw.inline.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown bold stars</string>
-            <key>scope</key>
-            <string>punctuation.definition.bold.markdown, punctuation.definition.italic.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#aaaaaa</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown link title braces</string>
-            <key>scope</key>
-            <string>punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#aaaaaa</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown link braces</string>
-            <key>scope</key>
-            <string>punctuation.definition.metadata.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#aaaaaa</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown link</string>
-            <key>scope</key>
-            <string>markup.underline.link.markdown, markup.underline.link.image.markdown, meta.image.inline.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-                <key>fontStyle</key>
-                <string>italic</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown bold/italic</string>
-            <key>scope</key>
-            <string>markup.bold.markdown, markup.italic.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFBB29</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown bold/italic</string>
-            <key>scope</key>
-            <string>markup.italic.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string>italic</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown bold/italic</string>
-            <key>scope</key>
-            <string>markup.bold.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string>bold</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>Markdown pre</string>
-            <key>scope</key>
-            <string>markup.raw.block.markdown</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#00a8c6</string>
-            </dict>
-        </dict>
-
-        <dict>
-            <key>name</key>
-            <string>GitGutter deleted</string>
-            <key>scope</key>
-            <string>markup.deleted.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#e61f44</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>GitGutter inserted</string>
-            <key>scope</key>
-            <string>markup.inserted.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#a7da1e</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>GitGutter changed</string>
-            <key>scope</key>
-            <string>markup.changed.git_gutter</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#f7b83d</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>CSS Class</string>
-            <key>scope</key>
-            <string>entity.other.attribute-name.class.css</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#F03113</string>
+                <string>#F8F8F0</string>
             </dict>
         </dict>
     </array>
     <key>uuid</key>
-    <string>199a96b9-89eb-8ef3-432e-c9e138c88a8c</string>
+    <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+    <key>colorSpaceName</key>
+    <string>sRGB</string>
+    <key>author</key>
+    <string>moldcraft</string>
 </dict>
 </plist>

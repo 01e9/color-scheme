@@ -5,18 +5,20 @@ Color Scheme
 
 ## Rules
 
-Component | Color
+Component | Color | HEX Color
 ---|---
-Background | dark gray
-Keywords | orange
-Comments | violet
-Strings | green
-Global Variable | dark blue
-Local Variable | blue
-Argument Variable | light blue
-Functions/Methods | dark yellow
-Caret | `#00FF00`
-TODO/FIXME | `#FF0000`
+Background | dark gray | `#171717`
+Keyword / Tag | orange | `#FF8019`
+Comment | violet | `#B729D9`
+String | green | `#7BD128`
+Number | light red | `#EE5B6C`
+Global Variable / Constant | dark blue | `#446CFF`
+Local Variable | blue | `#4AA3FF`
+Argument Variable | light blue | `#77DAFF`
+Function / Method / Attribute | light yellow | `#F4DC6E`
+Caret | full green | `#00FF00`
+Caret row | darker gray | `#101010`
+TODO/FIXME | full red | `#FF0000`
 
 ## IDE
 
