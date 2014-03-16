@@ -23,4 +23,4 @@ TODO/FIXME | full red | `#FF0000`
 ## IDE
 
 * [PhpStorm](phpstorm)
-* [Sublime Text](sublime-text)
+* [Sublime Text](sublime-text) _(not finished)_
