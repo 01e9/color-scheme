@@ -6,7 +6,7 @@ Color Scheme
 ## Rules
 
 Component | Color | HEX Color
----|---
+---|---|---
 Background | dark gray | `#171717`
 Keyword / Tag | orange | `#FF8019`
 Comment | violet | `#B729D9`
