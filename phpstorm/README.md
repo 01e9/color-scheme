@@ -19,4 +19,3 @@ _PHPStorm version 7.x_
 
 1. Go to menu: `File` -> `Settings` -> `Editor` -> `Colors & Fonts`
 2. Select the cheme name `moldcraft` and click OK
-3. Restart PhpStorm
