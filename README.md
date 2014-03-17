@@ -6,7 +6,7 @@ Color Scheme
 ## Rules
 
 Component | Color | HEX Color
----|---
+---|---|---
 Background | dark gray | `#171717`
 Keyword / Tag | orange | `#FF8019`
 Comment | violet | `#B729D9`
@@ -23,4 +23,4 @@ TODO/FIXME | full red | `#FF0000`
 ## IDE
 
 * [PhpStorm](phpstorm)
-* [Sublime Text](sublime-text)
+* [Sublime Text](sublime-text) _(not finished)_
