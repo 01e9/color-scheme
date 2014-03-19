@@ -682,7 +682,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f4dc6e" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -721,7 +722,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f4dc6e" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
@@ -765,8 +767,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f4dc6e" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
