@@ -3,6 +3,8 @@ PhpStorm Color Scheme
 
 ![Screenshot](screenshot.png)
 
+http://www.phpstorm-themes.com/theme/moldcraft
+
 ## How To Install
 
 ### [Download](moldcraft.icls) the file
