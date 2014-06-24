@@ -7,7 +7,9 @@ http://www.phpstorm-themes.com/theme/moldcraft
 
 ## How To Install
 
-### [Download](moldcraft.icls) the file
+### [Download](https://raw.githubusercontent.com/moldcraft/colour-scheme/master/phpstorm/moldcraft.icls) the file
+
+_Right Click -> Save As_
 
 ### Copy the file to directory
 
