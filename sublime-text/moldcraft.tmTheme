@@ -45,6 +45,19 @@ Find more at : https://github.com/moldcraft/colour-scheme
         </dict>
         <dict>
             <key>name</key>
+            <string>Function Variable</string>
+            <key>scope</key>
+            <string>meta.function.arguments.php</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#f4dc6e</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Comment</string>
             <key>scope</key>
             <string>comment</string>
@@ -96,6 +109,8 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>foreground</key>
                 <string>#446cff</string>
+                <key>fontStyle</key>
+                <string>italic bold</string>
             </dict>
         </dict>
         <dict>
@@ -131,6 +146,8 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <dict>
                 <key>fontStyle</key>
                 <string></string>
+                <key>foreground</key>
+                <string>#ff8019</string>
             </dict>
         </dict>
         <dict>
@@ -181,6 +198,32 @@ Find more at : https://github.com/moldcraft/colour-scheme
         </dict>
         <dict>
             <key>name</key>
+            <string>Object Function Call</string>
+            <key>scope</key>
+            <string>meta.function-call.object.php</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#f4dc6e</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Object Function Call</string>
+            <key>scope</key>
+            <string>meta.function-call.static.php</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#f4dc6e</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Tag name</string>
             <key>scope</key>
             <string>entity.name.tag</string>
@@ -213,7 +256,9 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
-                <string></string>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#D19A48</string>
             </dict>
         </dict>
         <dict>
