@@ -1,7 +1,7 @@
 Sublime Text Color Scheme
 ===
 
-![Screenshot](http://puu.sh/cNJrg/177f23398e.png)
+![Screenshot](screenshot.png)
 
 ## To Do
 
@@ -10,7 +10,7 @@ Sublime Text Color Scheme
 
 ## How To Install
 
-### [Download](https://raw.githubusercontent.com/Ultrabenosaurus/colour-scheme/master/sublime-text/moldcraft.tmTheme) the file
+### [Download](https://raw.githubusercontent.com/moldcraft/colour-scheme/master/sublime-text/moldcraft.tmTheme) the file
 
 ### Copy the file to directory
 
