@@ -11,7 +11,7 @@ Sublime Text Color Scheme
 * Copy the file in packages directory
 
     You can find it by using the `Preferences` -> `Browse Packages...` menu
-* Enable scheme
+* Enable the scheme
 
     Go to menu `Preferences` -> `Color Scheme` -> `moldcraft`
 
