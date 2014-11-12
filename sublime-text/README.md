@@ -19,3 +19,4 @@ Sublime Text Color Scheme
 
 * Figure out why `variable` (:120) is overriding the more specific `meta.function.arguments.php` (:50)
   * fix it
+* Try to get characters `()[]` (and `{}`?) to be a slight grey rather than white or whatever
