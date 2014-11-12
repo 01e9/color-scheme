@@ -9,7 +9,7 @@ http://www.phpstorm-themes.com/theme/moldcraft
 
 1. [Download](https://raw.githubusercontent.com/moldcraft/colour-scheme/master/phpstorm/moldcraft.icls) the file
 
-    _`Right Click` -> `Save As`_
+    `Right Click` -> `Save As`
 * Copy the file in `colors/` directory
 
     * __Ubuntu/Linux__ `~/.WebIdeX0/config/colors/`
