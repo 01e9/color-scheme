@@ -3,6 +3,11 @@ Sublime Text Color Scheme
 
 ![Screenshot](http://puu.sh/cNJrg/177f23398e.png)
 
+## To Do
+
+* Figure out why `variable` (:120) is overriding the more specific `meta.function.arguments.php` (:50)
+  * fix it
+
 ## How To Install
 
 ### [Download](https://raw.githubusercontent.com/Ultrabenosaurus/colour-scheme/master/sublime-text/moldcraft.tmTheme) the file
