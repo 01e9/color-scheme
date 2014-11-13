@@ -311,15 +311,13 @@ Find more at : https://github.com/moldcraft/colour-scheme
         </dict>
         <dict>
             <key>name</key>
-            <string>Function Variable</string>
+            <string>Brackets</string>
             <key>scope</key>
-            <string>meta.function.arguments, meta.function.argument.no-default</string>
+            <string>brackets.curly, brackets.round, brackets.square, brackets.angle</string>
             <key>settings</key>
             <dict>
-                <key>fontStyle</key>
-                <string></string>
                 <key>foreground</key>
-                <string>#f4dc6e</string>
+                <string>#000</string>
             </dict>
         </dict>
     </array>

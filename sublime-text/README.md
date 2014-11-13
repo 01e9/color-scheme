@@ -15,8 +15,11 @@ Sublime Text Color Scheme
 
     Go to menu `Preferences` -> `Color Scheme` -> `moldcraft`
 
-## To Do
+# To Do
 
-* Figure out why `variable` (:120) is overriding the more specific `meta.function.arguments.php` (:50)
-  * fix it
 * Try to get characters `()[]` (and `{}`?) to be a slight grey rather than white or whatever
+
+# Can't Do
+
+* Highlighting parameters differently to local variables
+  * at best in the function declaration, [not throughout](http://www.sublimetext.com/forum/viewtopic.php?f=2&t=11632), so no point
