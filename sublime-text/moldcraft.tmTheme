@@ -45,19 +45,6 @@ Find more at : https://github.com/moldcraft/colour-scheme
         </dict>
         <dict>
             <key>name</key>
-            <string>Function Variable</string>
-            <key>scope</key>
-            <string>meta.function.arguments.php</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#f4dc6e</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>Comment</string>
             <key>scope</key>
             <string>comment</string>
@@ -200,7 +187,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>name</key>
             <string>Object Function Call</string>
             <key>scope</key>
-            <string>meta.function-call.object.php</string>
+            <string>meta.function-call.object</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -213,7 +200,7 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>name</key>
             <string>Object Function Call</string>
             <key>scope</key>
-            <string>meta.function-call.static.php</string>
+            <string>meta.function-call.static</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
@@ -320,6 +307,19 @@ Find more at : https://github.com/moldcraft/colour-scheme
                 <string>#AE81FF</string>
                 <key>foreground</key>
                 <string>#F8F8F0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Function Variable</string>
+            <key>scope</key>
+            <string>meta.function.arguments, meta.function.argument.no-default</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#f4dc6e</string>
             </dict>
         </dict>
     </array>
