@@ -18,8 +18,3 @@ Sublime Text Color Scheme
 # To Do
 
 * Try to get characters `()[]` (and `{}`?) to be a slight grey rather than white or whatever
-
-# Can't Do
-
-* Highlighting parameters differently to local variables
-  * at best in the function declaration, [not throughout](http://www.sublimetext.com/forum/viewtopic.php?f=2&t=11632), so no point

@@ -91,7 +91,20 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>name</key>
             <string>User-defined constant</string>
             <key>scope</key>
-            <string>constant.character, constant.other</string>
+            <string>constant.character, constant.other, support.constant</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#446cff</string>
+                <key>fontStyle</key>
+                <string>italic bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Supporting Constant</string>
+            <key>scope</key>
+            <string>support.constant.std.php</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -104,13 +117,26 @@ Find more at : https://github.com/moldcraft/colour-scheme
             <key>name</key>
             <string>Variable</string>
             <key>scope</key>
-            <string>variable</string>
+            <string>variable -meta.function.arguments.php -meta.function.argument.default.php</string>
             <key>settings</key>
             <dict>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
                 <string>#4aa3ff</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Parameter</string>
+            <key>scope</key>
+            <string>meta.function.arguments.php, meta.function.argument.default.php</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#77DAFF</string>
             </dict>
         </dict>
         <dict>
@@ -246,17 +272,6 @@ Find more at : https://github.com/moldcraft/colour-scheme
                 <string>italic</string>
                 <key>foreground</key>
                 <string>#D19A48</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
-            <string>Library constant</string>
-            <key>scope</key>
-            <string>support.constant</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
             </dict>
         </dict>
         <dict>
