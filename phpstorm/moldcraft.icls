@@ -315,6 +315,16 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value />
     </option>
+    <option name="MARKDOWN.BOLD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.ITALIC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="56ff00" />
@@ -326,11 +336,9 @@
         <option name="FOREGROUND" value="666666" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID">
+    <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="77daff" />
       </value>
     </option>
     <option name="PHP_TAG">
@@ -342,6 +350,21 @@
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="4aa3ff" />
+      </value>
+    </option>
+    <option name="REST.FIXED">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="REST.INLINE">
+      <value>
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="REST.INTERPRETED">
+      <value>
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -416,6 +439,11 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value />
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="4aa3ff" />
+      </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
