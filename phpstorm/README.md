@@ -12,9 +12,9 @@ http://www.phpstorm-themes.com/theme/moldcraft
     `Right Click` -> `Save As`
 * Copy the file in `colors/` directory
 
-    * __Ubuntu/Linux__ `~/.WebIdeX0/config/colors/`
-    * __Mac OS X__ `~/Library/Preferences/WebIdeX0/colors/`
-    * __Windows__ `C:/Users/USERNAME/.WebIdeX0/config/colors/`
+    * __Ubuntu/Linux__ `~/.PhpStorm20YY.V/config/colors/`
+    * __Mac OS X__ `~/Library/Preferences/PhpStorm20YY.V/colors/`
+    * __Windows__ `C:/Users/USERNAME/.PhpStorm20YY.V/config/colors/`
 * Enable the scheme
 
     1. Go to menu: `File` -> `Settings` -> `Editor` -> `Colors & Fonts`
