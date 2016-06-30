@@ -23,4 +23,5 @@ TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `#FF0000`
 ## IDE
 
 * [PhpStorm](phpstorm)
-* [Sublime Text](sublime-text) _(not finished)_
+* [CLion](phpstorm)
+* [Sublime Text](sublime-text)
