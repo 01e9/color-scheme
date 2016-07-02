@@ -36,6 +36,11 @@
         <option name="BACKGROUND" value="ffc8c8" />
       </value>
     </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cdcd00" />
