@@ -16,6 +16,7 @@ Global Variable / Constant | ![c](http://placehold.it/50x14/446CFF.png&text=%20)
 Local Variable | ![c](http://placehold.it/50x14/4AA3FF.png&text=%20) | `#4AA3FF`
 Argument Variable | ![c](http://placehold.it/50x14/77DAFF.png&text=%20) | `#77DAFF`
 Function / Method / Attribute | ![c](http://placehold.it/50x14/F4DC6E.png&text=%20) | `#F4DC6E`
+Braces / Parentheses / Brackets | ![c](http://placehold.it/50x14/999999.png&text=%20) | `#999999`
 Caret | ![c](http://placehold.it/50x14/FFFFFF.png&text=%20) | `#FFFFFF`
 Caret row | ![c](http://placehold.it/50x14/101010.png&text=%20) | `#101010`
 TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `#FF0000`
