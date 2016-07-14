@@ -80,7 +80,7 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="666666" />
+        <option name="FOREGROUND" value="999999" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -176,6 +176,11 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="ee5b6c" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="999999" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -338,10 +343,29 @@
         <option name="FOREGROUND" value="666666" />
       </value>
     </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="f4dc6e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.OVERLOADED_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="f4dc6e" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="4aa3ff" />
+      </value>
+    </option>
     <option name="OC.STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
       </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value />
     </option>
     <option name="PHP_PARAMETER">
       <value>
