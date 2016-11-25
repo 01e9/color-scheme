@@ -5,6 +5,8 @@ Color Scheme
 
 ## Rules
 
+http://paletton.com/#uid=70r0u0kmxuncVKfig-DsbsxtGlQ
+
 Component | Color | HEX Color
 ---|---|---
 Background | ![c](http://placehold.it/50x14/171717.png&text=%20) | `#171717`
