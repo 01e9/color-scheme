@@ -9,19 +9,19 @@ http://paletton.com/#uid=70r0u0kmxuncVKfig-DsbsxtGlQ
 
 Component | Color | HEX Color
 ---|---|---
-Background | ![c](http://placehold.it/50x14/171717.png&text=%20) | `#171717`
-Keyword / Tag | ![c](http://placehold.it/50x14/F29048.png&text=%20) | `#F29048`
-Comment | ![c](http://placehold.it/50x14/B729D9.png&text=%20) | `#B729D9`
-String | ![c](http://placehold.it/50x14/7BD128.png&text=%20) | `#7BD128`
-Number | ![c](http://placehold.it/50x14/EE5B6C.png&text=%20) | `#EE5B6C`
-Global Variable / Constant | ![c](http://placehold.it/50x14/446CFF.png&text=%20) | `#446CFF`
-Local Variable | ![c](http://placehold.it/50x14/4AA3FF.png&text=%20) | `#4AA3FF`
-Argument Variable | ![c](http://placehold.it/50x14/77DAFF.png&text=%20) | `#77DAFF`
-Function / Method / Attribute | ![c](http://placehold.it/50x14/FFAC6E.png&text=%20) | `#FFAC6E`
-Braces / Parentheses / Brackets | ![c](http://placehold.it/50x14/999999.png&text=%20) | `#999999`
-Caret | ![c](http://placehold.it/50x14/FFFFFF.png&text=%20) | `#FFFFFF`
-Caret row | ![c](http://placehold.it/50x14/101010.png&text=%20) | `#101010`
-TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `#FF0000`
+Background | ![c](http://placehold.it/50x14/202020.png&text=%20) | `black light`
+String | ![c](http://placehold.it/50x14/80D030.png&text=%20) | `green`
+Keyword / Tag | ![c](http://placehold.it/50x14/F09050.png&text=%20) | `orange`
+Function / Method / Attribute | ![c](http://placehold.it/50x14/FFD070.png&text=%20) | `yellow`
+Comment | ![c](http://placehold.it/50x14/B030D0.png&text=%20) | `pink dark`
+Number | ![c](http://placehold.it/50x14/F06060.png&text=%20) | `red light`
+Global Variable / Constant | ![c](http://placehold.it/50x14/4060F0.png&text=%20) | `blue dark`
+Local Variable | ![c](http://placehold.it/50x14/50A0F0.png&text=%20) | `blue`
+Argument Variable | ![c](http://placehold.it/50x14/70E0F0.png&text=%20) | `blue light`
+Braces / Parentheses / Brackets | ![c](http://placehold.it/50x14/999999.png&text=%20) | `gray`
+Caret | ![c](http://placehold.it/50x14/FFFFFF.png&text=%20) | `white`
+Caret row | ![c](http://placehold.it/50x14/101010.png&text=%20) | `black`
+TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `red`
 
 ## IDE
 
