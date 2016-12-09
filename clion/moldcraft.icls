@@ -1,6 +1,8 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="28" />
+  <option name="EDITOR_FONT_SIZE" value="34" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="28" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
@@ -94,7 +96,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="446cff" />
+        <option name="FOREGROUND" value="2d968b" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -126,12 +128,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="f4dc6e" />
+        <option name="FOREGROUND" value="ffcc6e" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="f4dc6e" />
+        <option name="FOREGROUND" value="ffcc6e" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -141,7 +143,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ff8019" />
+        <option name="FOREGROUND" value="f29048" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -157,7 +159,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff8019" />
+        <option name="FOREGROUND" value="f29048" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
