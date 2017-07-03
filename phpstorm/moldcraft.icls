@@ -401,9 +401,6 @@
         <option name="BACKGROUND" value="202020" />
       </value>
     </option>
-    <option name="PHP_STRING">
-      <value />
-    </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="5a140c" />
