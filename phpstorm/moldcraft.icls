@@ -161,7 +161,6 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="dedede" />
-        <option name="BACKGROUND" value="202020" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -196,7 +195,12 @@
         <option name="FOREGROUND" value="4aa3ff" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="ee5b6c" />
@@ -241,7 +245,11 @@
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
+      </value>
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="4e9a06" />
@@ -398,18 +406,6 @@
         <option name="FOREGROUND" value="77daff" />
       </value>
     </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="202020" />
-      </value>
-    </option>
-    <option name="PHP_TAG">
-      <value>
-        <option name="FOREGROUND" value="5a140c" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="4aa3ff" />
@@ -432,7 +428,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="404040" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -448,7 +444,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="404040" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
@@ -487,7 +483,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="404040" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
