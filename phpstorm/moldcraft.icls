@@ -389,12 +389,18 @@
         <option name="FOREGROUND" value="666666" />
       </value>
     </option>
+    <option name="PHP_CLASS">
+      <value />
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="PHP_INTERFACE">
+      <value />
     </option>
     <option name="PHP_OPERATION_SIGN">
       <value>
@@ -472,8 +478,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ebc700" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -487,7 +493,9 @@
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="775555" />
+      </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
