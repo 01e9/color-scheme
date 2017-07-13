@@ -15,7 +15,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INDENT_GUIDE" value="151515" />
-    <option name="LINE_NUMBERS_COLOR" value="666666" />
+    <option name="LINE_NUMBERS_COLOR" value="555555" />
     <option name="METHOD_SEPARATORS_COLOR" value="101010" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
@@ -337,7 +337,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="272727" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -412,6 +412,11 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="7accc3" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
