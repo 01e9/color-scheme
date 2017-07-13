@@ -8,7 +8,7 @@
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
-    <option name="ANNOTATIONS_COLOR" value="" />
+    <option name="ANNOTATIONS_COLOR" value="3c3f41" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="171717" />
@@ -28,11 +28,26 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
     <option name="WHITESPACES" value="151515" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="494c4e" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="3a0005" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value />
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="f29048" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f29048" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -271,7 +286,7 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="c8f2c8" />
+        <option name="BACKGROUND" value="1f3706" />
         <option name="ERROR_STRIPE_COLOR" value="baeeba" />
       </value>
     </option>
@@ -412,6 +427,12 @@
         <option name="FOREGROUND" value="77daff" />
       </value>
     </option>
+    <option name="PHP_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="4aa3ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="4aa3ff" />
@@ -434,7 +455,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="666666" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -450,7 +471,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="666666" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
