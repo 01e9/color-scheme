@@ -1,10 +1,11 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.4166667" />
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="30" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="32" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="3c3f41" />
@@ -154,7 +155,8 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="ff00" />
+        <option name="FOREGROUND" value="4e9a06" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
