@@ -21,16 +21,16 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="171717" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INDENT_GUIDE" value="151515" />
-    <option name="LINE_NUMBERS_COLOR" value="666666" />
+    <option name="LINE_NUMBERS_COLOR" value="555555" />
     <option name="METHOD_SEPARATORS_COLOR" value="101010" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="101010" />
+    <option name="RIGHT_MARGIN_COLOR" value="171717" />
     <option name="SELECTED_INDENT_GUIDE" value="101010" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="0" />
-    <option name="SELECTION_FOREGROUND" value="56ff00" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
     <option name="WHITESPACES" value="151515" />
@@ -39,6 +39,26 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="3a0005" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="444444" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -359,8 +379,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="56ff00" />
-        <option name="BACKGROUND" value="171717" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
