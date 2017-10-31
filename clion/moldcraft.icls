@@ -10,7 +10,7 @@
     <option name="EDITOR_FONT_SIZE" value="30" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="32" />
+  <option name="CONSOLE_FONT_SIZE" value="26" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
@@ -29,8 +29,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="171717" />
     <option name="SELECTED_INDENT_GUIDE" value="101010" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="0" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="2f65c9" />
+    <option name="SELECTION_FOREGROUND" value="dedede" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
     <option name="WHITESPACES" value="151515" />
@@ -41,6 +41,7 @@
         <option name="BACKGROUND" value="3a0005" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="999999" />
@@ -64,6 +65,11 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3f0000" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc0000" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
