@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string>
+
+#define FOO 1
+#define BAR 2
+
+int test(bool ok) {
+    if (ok) {
+        return 1;
+    } else {
+        return 2;
+    }
+}
+
+struct Test {
+    std::string test {"Hello World"};
+};
+
+int main()
+{
+    std::cout << Test{}.test << std::endl;
+    {
+        using namespace std;
+        cout << test(true) << endl;
+    }
+    std::cout << FOO << '\t' << static_cast<int>(10) << std::endl;
+    return 0;
+}
