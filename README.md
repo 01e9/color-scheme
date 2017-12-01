@@ -1,7 +1,14 @@
-Color Scheme
-===
+# Color Scheme
 
-![Screenshot](phpstorm/screenshot.png)
+For JetBrains IDEs: CLion, PHPStorm, WebStorm, etc.
+
+### C++
+
+![C++](screenshot/cpp.png)
+
+### PHP
+
+![PHP](screenshot/php.png)
 
 ## Rules
 
@@ -21,8 +28,9 @@ Caret | ![c](http://placehold.it/50x14/FFFFFF.png&text=%20) | `white`
 Caret row | ![c](http://placehold.it/50x14/101010.png&text=%20) | `black`
 TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `red`
 
-## IDE
+## Usage
 
-* [PhpStorm](phpstorm)
-* [CLion](clion)
-* [Sublime Text](sublime-text)
+* `git clone https://github.com/moldcraft/color-scheme.git`
+* `cd color-scheme`
+* `mkdir -p ~/.YOUR_IDE/config/colors`
+* `ln -s ``pwd``/moldcraft.icls ~/.YOUR_IDE/config/colors/`
