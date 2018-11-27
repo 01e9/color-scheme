@@ -370,6 +370,7 @@
         <option name="FOREGROUND" value="828282" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FONT_TYPE" value="1" />
