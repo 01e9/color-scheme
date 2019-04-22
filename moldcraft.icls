@@ -378,16 +378,19 @@
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LINE_FULL_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="273725" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="3d0000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
+        <option name="FOREGROUND" value="1d3b63" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
