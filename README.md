@@ -30,7 +30,7 @@ TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `red`
 
 ## Usage
 
-* `git clone https://github.com/moldcraft/color-scheme.git`
+* `git clone https://github.com/01e9/color-scheme.git`
 * `cd color-scheme`
 * `mkdir -p ~/.YOUR_IDE/config/colors`
 * `ln -s $(pwd)/moldcraft.icls ~/.YOUR_IDE/config/colors/`
