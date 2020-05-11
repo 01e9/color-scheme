@@ -32,5 +32,6 @@ TODO/FIXME | ![c](http://placehold.it/50x14/FF0000.png&text=%20) | `red`
 
 * `git clone https://github.com/01e9/color-scheme.git`
 * `cd color-scheme`
-* `mkdir -p ~/.YOUR_IDE/config/colors`
-* `ln -s $(pwd)/moldcraft.icls ~/.YOUR_IDE/config/colors/`
+* `mkdir -p ~/.config/JetBrains/YOUR_IDE/colors`
+* `ln -s $(pwd)/moldcraft.icls ~/.config/JetBrains/YOUR_IDE/colors/`
+* Restart IDE
