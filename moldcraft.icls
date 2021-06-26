@@ -1,7 +1,7 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
-    <option name="ANNOTATIONS_COLOR" value="3c3f41" />
+    <option name="ANNOTATIONS_COLOR" value="212222" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="101010" />
