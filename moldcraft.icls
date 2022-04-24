@@ -1,9 +1,9 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-04-24T17:17:06</property>
+    <property name="created">2022-04-24T17:33:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-24T17:17:18</property>
+    <property name="modified">2022-04-24T17:33:39</property>
     <property name="originalScheme">moldcraft</property>
   </metaInfo>
   <colors>
@@ -377,18 +377,17 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="77daff" />
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="b729d9" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="77daff" />
+        <option name="FOREGROUND" value="b729d9" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="77daff" />
+        <option name="FOREGROUND" value="b729d9" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
