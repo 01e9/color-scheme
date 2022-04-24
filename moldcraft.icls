@@ -1,4 +1,11 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2022-04-24T16:21:59</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-04-24T16:22:12</property>
+    <property name="originalScheme">moldcraft</property>
+  </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="212222" />
@@ -195,7 +202,9 @@
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b729d9" />
+      </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value />
@@ -370,19 +379,26 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="b729d9" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="b729d9" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="5b5b5b" />
+        <option name="FOREGROUND" value="b729d9" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="828282" />
+        <option name="FOREGROUND" value="b729d9" />
+        <option name="EFFECT_COLOR" value="b729d9" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
