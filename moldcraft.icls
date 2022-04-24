@@ -1,9 +1,9 @@
 <scheme name="moldcraft" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-04-24T16:21:59</property>
+    <property name="created">2022-04-24T17:10:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-24T16:22:12</property>
+    <property name="modified">2022-04-24T17:10:46</property>
     <property name="originalScheme">moldcraft</property>
   </metaInfo>
   <colors>
@@ -128,9 +128,6 @@
         <option name="FOREGROUND" value="999999" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_NAME">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="aaaaaa" />
@@ -201,11 +198,6 @@
         <option name="FOREGROUND" value="4aa3ff" />
       </value>
     </option>
-    <option name="DEFAULT_INTERFACE_NAME">
-      <value>
-        <option name="FOREGROUND" value="b729d9" />
-      </value>
-    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value />
     </option>
@@ -266,7 +258,6 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="4aa3ff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
@@ -386,22 +377,22 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="b729d9" />
+        <option name="FOREGROUND" value="77daff" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="b729d9" />
+        <option name="FOREGROUND" value="77daff" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="b729d9" />
-        <option name="EFFECT_COLOR" value="b729d9" />
+        <option name="FOREGROUND" value="77daff" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LINE_FULL_COVERAGE">
       <value>
