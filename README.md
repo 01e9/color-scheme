@@ -14,3 +14,12 @@ For [JetBrains IDE](https://www.jetbrains.com/products/#type=ide) _(IntelliJ IDE
 1. [Download the `.icls` file](https://github.com/01e9/color-scheme/raw/master/moldcraft.icls)
 2. Import it
     <details><summary>IDE settings</summary> <img src="jetbrains-ide-settings.png" /> </details>
+
+## Rules
+
+| Color | Code |
+| --- | --- |
+| 🟠 Orange | Keyword |
+| 🟢 Green | String |
+| 🔵 Blue | Variable |
+| 🟣 Purple | Comment |
