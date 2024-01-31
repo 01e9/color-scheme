@@ -3,7 +3,7 @@
     <property name="created">2022-08-08T09:54:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-08T09:54:07</property>
+    <property name="modified">2024-01-31T16:51:07</property>
     <property name="originalScheme">moldcraft</property>
   </metaInfo>
   <colors>
@@ -13,9 +13,11 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="101010" />
     <option name="CONSOLE_BACKGROUND_KEY" value="171717" />
+    <option name="DOCUMENTATION_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INDENT_GUIDE" value="151515" />
     <option name="LINE_NUMBERS_COLOR" value="555555" />
+    <option name="LOOKUP_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="101010" />
     <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
@@ -27,6 +29,7 @@
     <option name="SELECTION_FOREGROUND" value="dedede" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
+    <option name="TOOLTIP" value="" />
     <option name="WHITESPACES" value="151515" />
   </colors>
   <attributes>
